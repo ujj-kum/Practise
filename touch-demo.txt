@@ -1,5 +1,0 @@
-<<<<<<< Updated upstream
-Another text send to stash
-=======
-New changes being done in the file.
->>>>>>> Stashed changes
